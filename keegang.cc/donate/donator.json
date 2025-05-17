@@ -20,6 +20,7 @@
     { "name": "ภัทรพงศ์", "quantity": "20", "date": "28/4/25" },
     { "name": "กษิภณ", "quantity": "10", "date": "25/3/25" },
     { "name": "กัญญารักษ์", "quantity": "8", "date": "21/3/25" },
+    { "name": "", "quantity": "50", "date": "" },
     { "name": "", "quantity": "100", "date": "" },
     { "name": "", "quantity": "10", "date": "" },
     { "name": "", "quantity": "123", "date": "" },
