@@ -1,4 +1,6 @@
 { "data":[
+    { "name": "นิรดา", "quantity": "20", "date": "17/9/25" },
+    { "name": "โพธิกร", "quantity": "30", "date": "17/9/25" },
     { "name": "กรณ์", "quantity": "20", "date": "24/8/25" },
     { "name": "กมลภูมิ", "quantity": "49", "date": "22/6/25" },
     { "name": "ชฎาภรณ์", "quantity": "20", "date": "22/6/25" },
