@@ -74,16 +74,5 @@
         }
       ]
     }
-  },
-    "status_priority": [
-    "quality checking",
-    "translating",
-    "on queue",
-    "waiting",
-    "on break",
-    "cancled",
-    "complete",
-    "published",
-    "finished"
-  ]
+  }
 }
