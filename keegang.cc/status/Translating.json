@@ -6,21 +6,7 @@
       "link": "https://mangadex.org/title/730e65ef-b00c-4495-9935-9db252d93d4a/love-gives-me-superpowers",
       "chapters": [
         {
-          "chapter": 4,
-          "status": "published",
-          "translator_note": "published",
-          "note": "",
-          "determined_date": ""
-        },
-        {
           "chapter": 5,
-          "status": "finished",
-          "translator_note": "wait for publishing",
-          "note": "",
-          "determined_date": ""
-        },
-        {
-          "chapter": 6,
           "status": "translating",
           "translator_note": "working on it",
           "note": "",
@@ -34,15 +20,8 @@
       "chapters": [
         {
           "chapter": 4,
-          "status": "quality checking",
-          "translator_note": "spell check",
-          "note": "",
-          "determined_date": ""
-        },
-        {
-          "chapter": 5,
           "status": "cleaning",
-          "translator_note": "cleaning",
+          "translator_note": "",
           "note": "",
           "determined_date": ""
         }
@@ -53,7 +32,7 @@
       "link": "https://mangadex.org/title/6fc1c54b-7285-4a51-8c8b-22838f04eb26/kono-koi-wo-hoshi-ni-wa-negawanai",
       "chapters": [
         {
-          "chapter": null,
+          "chapter": 6,
           "status": "on queue",
           "translator_note": "we will do this later",
           "note": "",
