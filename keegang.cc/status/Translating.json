@@ -8,9 +8,9 @@
         {
           "chapter": 5,
           "status": "translating",
-          "translator_note": "working on it",
+          "translator_note": "กำลังแปล",
           "note": "",
-          "determined_date": ""
+          "determined_date": "16/11/68"
         }
       ]
     },
@@ -21,7 +21,7 @@
         {
           "chapter": 4,
           "status": "cleaning",
-          "translator_note": "",
+          "translator_note": "กำลังคลีน",
           "note": "",
           "determined_date": ""
         }
@@ -34,7 +34,7 @@
         {
           "chapter": 6,
           "status": "on queue",
-          "translator_note": "we will do this later",
+          "translator_note": "รอว่างก่อน มังงะมันทำนาน",
           "note": "",
           "determined_date": ""
         }
