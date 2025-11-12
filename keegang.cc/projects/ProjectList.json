@@ -1,0 +1,108 @@
+{
+  "categoryGroups": {
+    "codeLanguage": ["Python", "JavaScript", "Kotlin"],
+    "platform": ["Browser Extension", "Mobile App", "Online Tools"],
+    "projectLanguage": ["Multilingual", "English", "Thai"],
+    "other": ["Contributed Project", "Media", "Social Media"]
+  },
+  "projects": [
+  {
+    title: "EN-TH Keyboard Translator",
+    description: "Translate between English and Thai keyboard layout",
+    imageUrl: "/projects/EN-TH Keyboard Translator.png",
+    categories: ["Online Tools", "Python", "English", "Thai"],
+    link: "/projects/keyboard-translator",
+  },
+  {
+    title: "PriceCompare",
+    description: "Android application to compare various product price",
+    imageUrl: "/projects/PriceCompare.png",
+    categories: ["Mobile App", "English", "Thai"],
+    link: "https://github.com/keegang6705/PriceCompareRelease",
+  },
+  {
+    title: "BemisEditor",
+    description: "Instant fill all the student score with one click for bemis",
+    imageUrl: "/projects/BemisEditor.png",
+    categories: ["JavaScript", "Browser Extension", "Thai"],
+    link: "/projects/bemis-editor",
+  },
+  {
+    title: "Arknights-Recruit-OCR",
+    description: "OCR tool for Arknights recruitment screen",
+    imageUrl: "/projects/Arknights-Recruit-OCR.png",
+    categories: ["Python", "English"],
+    link: "https://github.com/keegang6705/Arknights-Recruit-OCR",
+  },
+  {
+    title: "DiscordReader",
+    description: "Tools to read content from discord in clear mode",
+    imageUrl: "/projects/DiscordReader.png",
+    categories: ["Online Tools", "JavaScript", "English"],
+    link: "/projects/discord-reader",
+  },
+  {
+    title: "GithubDownloader",
+    description: "Tools to download content from GitHub repositories",
+    imageUrl: "/projects/GithubDownloader.png",
+    categories: ["Online Tools", "JavaScript", "English"],
+    link: "/projects/github-downloader",
+  },
+  {
+    title: "MySkEnchanter",
+    description: "Enchant MySk exprience with custom features",
+    imageUrl: "/projects/MySkEnchanter.png",
+    categories: ["JavaScript", "Browser Extension", "English", "Thai"],
+    link: "https://chromewebstore.google.com/detail/myskenchanter/cblocekkcfgogiepbopohmbbejninodm",
+  },
+  {
+    title: "YTDownload",
+    description: "Using python to download youtube video/music",
+    imageUrl: "/projects/YTDownload.png",
+    categories: ["Python", "Media", "English"],
+    link: "https://github.com/keegang6705/YTDownload",
+  },
+  {
+    title: "PanelCleaner-CUDA-build",
+    description: "AI tools to remove text from image PS.this is not my project but i take it and build with CUDA so it can use with NVDIA gpu",
+    imageUrl: "/projects/PanelCleaner-CUDA-build.png",
+    categories: ["Python", "Contributed Project", "English"],
+    link: "https://github.com/keegang6705/PanelCleaner-CUDA-build",
+  },
+  {
+    title: "OneClick Upload",
+    description: "python script to upload python script to pypi",
+    imageUrl: "/projects/OneClick Upload.png",
+    categories: ["Python", "English"],
+    link: "https://github.com/keegang6705/oneclick-upload",
+  },
+  {
+    title: "PythonGTTS-GUI",
+    description: "Text to speech with GUI using GTTS",
+    imageUrl: "/projects/PythonGTTS-GUI.png",
+    categories: ["Python", "English", "Thai"],
+    link: "https://github.com/keegang6705/PythonGTTS-GUI",
+  },
+  {
+    title: "Cross-Platform Connector",
+    description: "Connect multiple SNS together",
+    imageUrl: "/projects/Cross-Platform Connector.png",
+    categories: ["Python", "Social Media", "English", "Thai"],
+    link: "https://github.com/keegang6705/cross-platform-connector",
+  },
+  {
+    title: "Tachiyomi-Mihon extension",
+    description: "extension for Mihon to access manga source",
+    imageUrl: "/projects/Tachiyomi-Mihon extension.png",
+    categories: ["Kotlin", "Contributed Project", "Multilingual"],
+    link: "https://github.com/keegang6705/extensions-source",
+  },
+  {
+    title: "MySK API",
+    description: "API for Suankularb Wittayalai School management system",
+    imageUrl: "/projects/MySK.png",
+    categories: ["Contributed Project", "English", "Thai"],
+    link: "https://github.com/suankularb-wittayalai-school/mysk-api",
+  },
+]
+}
