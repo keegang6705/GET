@@ -85,43 +85,5 @@
     "complete",
     "published",
     "finished"
-  ],
-  "statuses": {
-    "quality checking": {
-      "color": "lime",
-      "variant": "secondary"
-    },
-    "translating": {
-      "color": "yellow",
-      "variant": "default"
-    },
-    "on queue": {
-      "color": "yellow",
-      "variant": "secondary"
-    },
-    "waiting": {
-      "color": "cyan",
-      "variant": "default"
-    },
-    "on break": {
-      "color": "orange",
-      "variant": "default"
-    },
-    "cancled": {
-      "color": "red",
-      "variant": "default"
-    },
-    "complete": {
-      "color": "lime",
-      "variant": "default"
-    },
-    "published": {
-      "color": "lime",
-      "variant": "secondary"
-    },
-    "finished": {
-      "color": "lime",
-      "variant": "outline"
-    }
-  }
+  ]
 }
