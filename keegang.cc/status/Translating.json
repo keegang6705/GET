@@ -6,10 +6,10 @@
       "chapters": [
         {
           "chapter": 5,
-          "status": "translating",
-          "translator_note": "กำลังแปล คาดว่าจะเสร็จ 17/11/68",
+          "status": "cleaning",
+          "translator_note": "กำลังคลีน คาดว่าจะเสร็จ 18/11/68",
           "note": "",
-          "determined_date": "16/11/68"
+          "determined_date": "18/11/68"
         }
       ]
     },
@@ -19,10 +19,10 @@
       "chapters": [
         {
           "chapter": 4,
-          "status": "cleaning",
-          "translator_note": "กำลังคลีน",
+          "status": "translating",
+          "translator_note": "กำลังแปล คาดว่าจะเสร็จ 23/11/68",
           "note": "",
-          "determined_date": ""
+          "determined_date": "23/11/68"
         }
       ]
     },
