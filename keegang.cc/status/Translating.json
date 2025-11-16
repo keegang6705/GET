@@ -46,7 +46,7 @@
         {
           "chapter": null,
           "status": "waiting",
-          "translator_note": "มีแผนว่าจะทำ... ซักวันนึง",
+          "translator_note": "หลังจากแปลเรื่องหลักๆเสร็จ",
           "note": "",
           "determined_date": ""
         }
@@ -57,9 +57,9 @@
       "link": "https://mangadex.org/title/c3042fca-11bf-4b87-bc31-ef1d62d1cc2c",
       "chapters": [
         {
-          "chapter": null,
-          "status": "waiting",
-          "translator_note": "น่าจะอีกยาวนาน",
+          "chapter": 1,
+          "status": "cancled",
+          "translator_note": "เนื้อเรื่องวุ่นวายไปหน่อยถ้าแปลคงลำบากตาย",
           "note": "",
           "determined_date": ""
         }
