@@ -1,18 +1,5 @@
 {
   "manga": {
-    "c16a96d3-75aa-4617-a535-4f0ffe1e95c5": {
-      "title": "Yuugai Shitei Doukyuusei",
-      "link": "https://mangadex.org/title/c16a96d3-75aa-4617-a535-4f0ffe1e95c5/yuugai-shitei-doukyuusei",
-      "chapters": [
-        {
-          "chapter": 21,
-          "status": "translating",
-          "translator_note": "กำลังแปล คาดว่าจะเสร็จ 18/11/68",
-          "note": "",
-          "determined_date": "18/11/68"
-        }
-      ]
-    },
     "730e65ef-b00c-4495-9935-9db252d93d4a": {
       "title": "Love Gives Me Superpowers",
       "link": "https://mangadex.org/title/730e65ef-b00c-4495-9935-9db252d93d4a/love-gives-me-superpowers",
@@ -77,6 +64,19 @@
           "determined_date": ""
         }
       ]
-    }
+    },
+    "c16a96d3-75aa-4617-a535-4f0ffe1e95c5": {
+      "title": "Yuugai Shitei Doukyuusei",
+      "link": "https://mangadex.org/title/c16a96d3-75aa-4617-a535-4f0ffe1e95c5/yuugai-shitei-doukyuusei",
+      "chapters": [
+        {
+          "chapter": 21,
+          "status": "cancled",
+          "translator_note": "แปลแค่ตอนเดียว",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
   }
 }
