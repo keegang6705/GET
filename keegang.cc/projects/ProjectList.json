@@ -7,6 +7,13 @@
   },
   "projects": [
     {
+      "title": "MIDI Player for Games",
+      "description": "A powerful MIDI player designed specifically for playing custom game soundtracks with flexible key mapping and playback control",
+      "imageUrl": "/projects/MIDI Player For Games1.png",
+      "categories": ["Python", "Online Tools", "English"],
+      "link": "/projects/midi-player-for-games"
+    },
+    {
       "title": "EN-TH Keyboard Translator",
       "description": "Translate between English and Thai keyboard layout",
       "imageUrl": "/projects/EN-TH Keyboard Translator.png",
