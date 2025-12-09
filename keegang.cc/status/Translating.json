@@ -79,26 +79,26 @@
       ]
     },
     "b7d2fec4-150e-4f73-808e-ea7b419e6601": {
-      "title": "New Manga Entry 1",
+      "title": "Green Plum Blossom Tea",
       "link": "https://mangadex.org/title/b7d2fec4-150e-4f73-808e-ea7b419e6601",
       "chapters": [
         {
           "chapter": null,
           "status": "waiting",
-          "translator_note": "Pending translation",
+          "translator_note": "รอไปก่อน",
           "note": "",
           "determined_date": ""
         }
       ]
     },
     "7d610c83-2108-4706-9a87-4bf7d387c410": {
-      "title": "New Manga Entry 2",
+      "title": "Kyuuketsuki ni Kawareta Shoujo no Juunen-go",
       "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
       "chapters": [
         {
-          "chapter": null,
-          "status": "cleaning",
-          "translator_note": "Pending cleaning",
+          "chapter": 3,
+          "status": "translating",
+          "translator_note": "กำลังแปล",
           "note": "",
           "determined_date": ""
         }
