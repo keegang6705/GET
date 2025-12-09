@@ -77,6 +77,32 @@
           "determined_date": ""
         }
       ]
+    },
+    "b7d2fec4-150e-4f73-808e-ea7b419e6601": {
+      "title": "New Manga Entry 1",
+      "link": "https://mangadex.org/title/b7d2fec4-150e-4f73-808e-ea7b419e6601",
+      "chapters": [
+        {
+          "chapter": null,
+          "status": "waiting",
+          "translator_note": "Pending translation",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "7d610c83-2108-4706-9a87-4bf7d387c410": {
+      "title": "New Manga Entry 2",
+      "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
+      "chapters": [
+        {
+          "chapter": null,
+          "status": "cleaning",
+          "translator_note": "Pending cleaning",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
     }
   }
 }
