@@ -26,6 +26,19 @@
         }
       ]
     },
+    "7d610c83-2108-4706-9a87-4bf7d387c410": {
+      "title": "Kyuuketsuki ni Kawareta Shoujo no Juunen-go",
+      "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
+      "chapters": [
+        {
+          "chapter": 6,
+          "status": "translating",
+          "translator_note": "กำลังแปล",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
     "6fc1c54b-7285-4a51-8c8b-22838f04eb26": {
       "title": "Kono Koi Wo Hoshi Ni Wa Negawanai",
       "link": "https://mangadex.org/title/6fc1c54b-7285-4a51-8c8b-22838f04eb26/kono-koi-wo-hoshi-ni-wa-negawanai",
@@ -47,6 +60,32 @@
           "chapter": null,
           "status": "waiting",
           "translator_note": "หลังจากแปลเรื่องหลักๆเสร็จ",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "b7d2fec4-150e-4f73-808e-ea7b419e6601": {
+      "title": "Green Plum Blossom Tea",
+      "link": "https://mangadex.org/title/b7d2fec4-150e-4f73-808e-ea7b419e6601",
+      "chapters": [
+        {
+          "chapter": null,
+          "status": "waiting",
+          "translator_note": "รอไปก่อน",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "08955a3e-63f9-4605-a14c-2d528d7608d7": {
+      "title": "She Is Also Cute Today",
+      "link": "https://mangadex.org/title/08955a3e-63f9-4605-a14c-2d528d7608d7/jintian-de-ta-yeshi-ruci-ke-ai",
+      "chapters": [
+        {
+          "chapter": null,
+          "status": "waiting",
+          "translator_note": "รอแปล",
           "note": "",
           "determined_date": ""
         }
@@ -78,40 +117,14 @@
         }
       ]
     },
-    "b7d2fec4-150e-4f73-808e-ea7b419e6601": {
-      "title": "Green Plum Blossom Tea",
-      "link": "https://mangadex.org/title/b7d2fec4-150e-4f73-808e-ea7b419e6601",
+    "2077da84-c995-4804-8264-99bf3a3561d5": {
+      "title": "Spriteful Affection",
+      "link": "https://mangadex.org/title/2077da84-c995-4804-8264-99bf3a3561d5",
       "chapters": [
         {
           "chapter": null,
-          "status": "waiting",
-          "translator_note": "รอไปก่อน",
-          "note": "",
-          "determined_date": ""
-        }
-      ]
-    },
-    "7d610c83-2108-4706-9a87-4bf7d387c410": {
-      "title": "Kyuuketsuki ni Kawareta Shoujo no Juunen-go",
-      "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
-      "chapters": [
-        {
-          "chapter": 6,
-          "status": "translating",
-          "translator_note": "กำลังแปล",
-          "note": "",
-          "determined_date": ""
-        }
-      ]
-    },
-    "08955a3e-63f9-4605-a14c-2d528d7608d7": {
-      "title": "She Is Also Cute Today",
-      "link": "https://mangadex.org/title/08955a3e-63f9-4605-a14c-2d528d7608d7/jintian-de-ta-yeshi-ruci-ke-ai",
-      "chapters": [
-        {
-          "chapter": null,
-          "status": "waiting",
-          "translator_note": "รอแปล",
+          "status": "cancled",
+          "translator_note": "ไฟล์หาย",
           "note": "",
           "determined_date": ""
         }
