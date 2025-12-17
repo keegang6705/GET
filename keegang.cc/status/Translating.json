@@ -5,9 +5,9 @@
       "link": "https://mangadex.org/title/730e65ef-b00c-4495-9935-9db252d93d4a/love-gives-me-superpowers",
       "chapters": [
         {
-          "chapter": 5,
+          "chapter": 6,
           "status": "translating",
-          "translator_note": "กำลังแปล",
+          "translator_note": "กำลังแปลตอนที่ 6",
           "note": "",
           "determined_date": ""
         }
@@ -18,9 +18,9 @@
       "link": "https://mangadex.org/title/9707d784-8619-4b82-bfda-d1e343763301/for-her-i-d-give-it-my-all",
       "chapters": [
         {
-          "chapter": 4,
+          "chapter": 5,
           "status": "translating",
-          "translator_note": "กำลังแปล",
+          "translator_note": "กำลังแปลตอนที่ 5",
           "note": "",
           "determined_date": ""
         }
@@ -31,9 +31,9 @@
       "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
       "chapters": [
         {
-          "chapter": 6,
-          "status": "translating",
-          "translator_note": "กำลังแปล",
+          "chapter": 8,
+          "status": "paused",
+          "translator_note": "หยุดแล้ว รอต้นฉบับอัพเพิ่ม",
           "note": "",
           "determined_date": ""
         }
@@ -45,8 +45,8 @@
       "chapters": [
         {
           "chapter": 6,
-          "status": "cleaning",
-          "translator_note": "กำลังคลีน",
+          "status": "translating",
+          "translator_note": "กำลังแปลตอนที่ 6",
           "note": "",
           "determined_date": ""
         }
@@ -57,9 +57,9 @@
       "link": "https://mangadex.org/title/d76d1db5-3488-4f1b-a5e1-10288056e531/what-should-i-do-if-i-ve-signed-a-marriage-contract-with-the-elven-princess",
       "chapters": [
         {
-          "chapter": null,
-          "status": "waiting",
-          "translator_note": "หลังจากแปลเรื่องหลักๆเสร็จ",
+          "chapter": 1,
+          "status": "cleaning",
+          "translator_note": "กำลังคลีนตอนแรก",
           "note": "",
           "determined_date": ""
         }
@@ -70,9 +70,9 @@
       "link": "https://mangadex.org/title/b7d2fec4-150e-4f73-808e-ea7b419e6601",
       "chapters": [
         {
-          "chapter": null,
-          "status": "waiting",
-          "translator_note": "รอไปก่อน",
+          "chapter": 1,
+          "status": "cleaning",
+          "translator_note": "กำลังคลีนตอนแรก",
           "note": "",
           "determined_date": ""
         }
@@ -83,9 +83,9 @@
       "link": "https://mangadex.org/title/08955a3e-63f9-4605-a14c-2d528d7608d7/jintian-de-ta-yeshi-ruci-ke-ai",
       "chapters": [
         {
-          "chapter": null,
-          "status": "waiting",
-          "translator_note": "รอแปล",
+          "chapter": 1,
+          "status": "cleaning",
+          "translator_note": "กำลังคลีนตอนแรก",
           "note": "",
           "determined_date": ""
         }
