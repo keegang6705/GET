@@ -7,6 +7,13 @@
   },
   "projects": [
     {
+      "title": "Keegang Scheduler",
+      "description": "A very detailed class scheduler for entire grade",
+      "imageUrl": "/projects/Keegang Scheduler.png",
+      "categories": ["JavaScript", "Online Tools" , "Multilingual"],
+      "link": "/projects/class-scheduler"
+    },
+    {
       "title": "MIDI Player for Games",
       "description": "A powerful MIDI player designed specifically for playing custom game soundtracks with flexible key mapping and playback control",
       "imageUrl": "/projects/MIDI Player For Games1.png",
