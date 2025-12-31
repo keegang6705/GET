@@ -58,8 +58,8 @@
       "chapters": [
         {
           "chapter": 1,
-          "status": "cleaning",
-          "translator_note": "กำลังคลีนตอนแรก",
+          "status": "waiting",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
