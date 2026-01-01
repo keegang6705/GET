@@ -6,8 +6,8 @@
       "chapters": [
         {
           "chapter": 6,
-          "status": "translating",
-          "translator_note": "กำลังแปลตอนที่ 6",
+          "status": "waiting",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -19,21 +19,8 @@
       "chapters": [
         {
           "chapter": 5,
-          "status": "translating",
-          "translator_note": "กำลังแปลตอนที่ 5",
-          "note": "",
-          "determined_date": ""
-        }
-      ]
-    },
-    "7d610c83-2108-4706-9a87-4bf7d387c410": {
-      "title": "Kyuuketsuki ni Kawareta Shoujo no Juunen-go",
-      "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
-      "chapters": [
-        {
-          "chapter": 8,
           "status": "waiting",
-          "translator_note": "หยุดแล้ว รอต้นฉบับอัพเพิ่ม",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -45,8 +32,8 @@
       "chapters": [
         {
           "chapter": 6,
-          "status": "translating",
-          "translator_note": "กำลังแปลตอนที่ 6",
+          "status": "waiting",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -71,8 +58,8 @@
       "chapters": [
         {
           "chapter": 1,
-          "status": "cleaning",
-          "translator_note": "กำลังคลีนตอนแรก",
+          "status": "waiting",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -84,8 +71,8 @@
       "chapters": [
         {
           "chapter": 1,
-          "status": "cleaning",
-          "translator_note": "กำลังคลีน",
+          "status": "waiting",
+          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -99,6 +86,19 @@
           "chapter": 4,
           "status": "waiting",
           "translator_note": "รอโหวต",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "7d610c83-2108-4706-9a87-4bf7d387c410": {
+      "title": "Kyuuketsuki ni Kawareta Shoujo no Juunen-go",
+      "link": "https://mangadex.org/title/7d610c83-2108-4706-9a87-4bf7d387c410",
+      "chapters": [
+        {
+          "chapter": 8,
+          "status": "waiting",
+          "translator_note": "หยุดแล้ว รอต้นฉบับอัพเพิ่ม",
           "note": "",
           "determined_date": ""
         }
