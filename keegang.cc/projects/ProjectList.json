@@ -36,7 +36,7 @@
 {
   "title": "Panel Splitter",
   "description": "Split long images into panels and download as ZIP. Runs completely locally.",
-  "imageUrl": "/projects/panel-splitter-preview.png",
+  "imageUrl": "/projects/Panel-Splitter.png",
   "categories": ["Utility", "Image Processing", "Web Tool"],
   "link": "/projects/panel-splitter"
 },
