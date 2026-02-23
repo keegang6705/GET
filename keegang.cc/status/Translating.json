@@ -5,35 +5,9 @@
       "link": "https://mangadex.org/title/d76d1db5-3488-4f1b-a5e1-10288056e531/what-should-i-do-if-i-ve-signed-a-marriage-contract-with-the-elven-princess",
       "chapters": [
         {
-          "chapter": 1,
+          "chapter": 2,
           "status": "cleaning",
           "translator_note": "กำลังทำ",
-          "note": "",
-          "determined_date": ""
-        }
-      ]
-    },
-    "730e65ef-b00c-4495-9935-9db252d93d4a": {
-      "title": "Love Gives Me Superpowers",
-      "link": "https://mangadex.org/title/730e65ef-b00c-4495-9935-9db252d93d4a/love-gives-me-superpowers",
-      "chapters": [
-        {
-          "chapter": 6,
-          "status": "waiting",
-          "translator_note": "รอโหวต",
-          "note": "",
-          "determined_date": ""
-        }
-      ]
-    },
-    "9707d784-8619-4b82-bfda-d1e343763301": {
-      "title": "For Her I'd Give It My All",
-      "link": "https://mangadex.org/title/9707d784-8619-4b82-bfda-d1e343763301/for-her-i-d-give-it-my-all",
-      "chapters": [
-        {
-          "chapter": 5,
-          "status": "waiting",
-          "translator_note": "รอโหวต",
           "note": "",
           "determined_date": ""
         }
@@ -46,7 +20,33 @@
         {
           "chapter": 6,
           "status": "waiting",
-          "translator_note": "รอโหวต",
+          "translator_note": "",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "730e65ef-b00c-4495-9935-9db252d93d4a": {
+      "title": "Love Gives Me Superpowers",
+      "link": "https://mangadex.org/title/730e65ef-b00c-4495-9935-9db252d93d4a/love-gives-me-superpowers",
+      "chapters": [
+        {
+          "chapter": 6,
+          "status": "waiting",
+          "translator_note": "",
+          "note": "",
+          "determined_date": ""
+        }
+      ]
+    },
+    "9707d784-8619-4b82-bfda-d1e343763301": {
+      "title": "For Her I'd Give It My All",
+      "link": "https://mangadex.org/title/9707d784-8619-4b82-bfda-d1e343763301/for-her-i-d-give-it-my-all",
+      "chapters": [
+        {
+          "chapter": 5,
+          "status": "waiting",
+          "translator_note": "",
           "note": "",
           "determined_date": ""
         }
@@ -59,7 +59,7 @@
         {
           "chapter": 1,
           "status": "waiting",
-          "translator_note": "รอโหวต",
+          "translator_note": "",
           "note": "",
           "determined_date": ""
         }
@@ -72,7 +72,7 @@
         {
           "chapter": 1,
           "status": "waiting",
-          "translator_note": "รอโหวต",
+          "translator_note": "",
           "note": "",
           "determined_date": ""
         }
@@ -85,7 +85,7 @@
         {
           "chapter": 4,
           "status": "waiting",
-          "translator_note": "รอโหวต",
+          "translator_note": "",
           "note": "",
           "determined_date": ""
         }
