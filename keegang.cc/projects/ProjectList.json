@@ -18,7 +18,9 @@
     "other": [
       "Contributed Project",
       "Media",
-      "Social Media"
+      "Social Media",
+      "Hand Made",
+      "Made By AI"
     ]
   },
   "projects": [
@@ -33,13 +35,17 @@
       ],
       "link": "/projects/class-scheduler"
     },
-{
-  "title": "Panel Splitter",
-  "description": "Split long images into panels and download as ZIP. Runs completely locally.",
-  "imageUrl": "/projects/Panel-Splitter.png",
-  "categories": ["Utility", "Image Processing", "Web Tool"],
-  "link": "/projects/panel-splitter"
-},
+    {
+      "title": "Panel Splitter",
+      "description": "Split long images into panels and download as ZIP. Runs completely locally.",
+      "imageUrl": "/projects/Panel-Splitter.png",
+      "categories": [
+        "Utility",
+        "Image Processing",
+        "Web Tool"
+      ],
+      "link": "/projects/panel-splitter"
+    },
     {
       "title": "MIDI Player for Games",
       "description": "A powerful MIDI player designed specifically for playing custom game soundtracks with flexible key mapping and playback control",
