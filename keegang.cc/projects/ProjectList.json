@@ -31,7 +31,8 @@
       "categories": [
         "JavaScript",
         "Online Tools",
-        "Multilingual"
+        "Multilingual",
+        "Made By AI"
       ],
       "link": "/projects/class-scheduler"
     },
@@ -42,7 +43,8 @@
       "categories": [
         "Utility",
         "Image Processing",
-        "Web Tool"
+        "Web Tool",
+        "Made By AI"
       ],
       "link": "/projects/panel-splitter"
     },
@@ -52,7 +54,8 @@
       "imageUrl": "/projects/MIDI Player For Games1.png",
       "categories": [
         "Python",
-        "Multilingual"
+        "Multilingual",
+        "Hand Made"
       ],
       "link": "/projects/midi-player-for-games"
     },
@@ -64,7 +67,8 @@
         "Online Tools",
         "Python",
         "English",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "/projects/keyboard-translator"
     },
@@ -75,7 +79,8 @@
       "categories": [
         "Mobile App",
         "English",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "https://github.com/keegang6705/PriceCompareRelease"
     },
@@ -86,7 +91,8 @@
       "categories": [
         "JavaScript",
         "Browser Extension",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "/projects/bemis-editor"
     },
@@ -96,7 +102,8 @@
       "imageUrl": "/projects/Arknights-Recruit-OCR.png",
       "categories": [
         "Python",
-        "English"
+        "English",
+        "Made By AI"
       ],
       "link": "https://github.com/keegang6705/Arknights-Recruit-OCR"
     },
@@ -107,7 +114,8 @@
       "categories": [
         "Online Tools",
         "JavaScript",
-        "English"
+        "English",
+        "Made By AI"
       ],
       "link": "/projects/discord-reader?c=87NN7A8jqhLBHUSQTnVFNmlkocb1IvAv"
     },
@@ -118,7 +126,8 @@
       "categories": [
         "Online Tools",
         "JavaScript",
-        "English"
+        "English",
+        "Made By AI"
       ],
       "link": "/projects/github-downloader"
     },
@@ -130,7 +139,8 @@
         "JavaScript",
         "Browser Extension",
         "English",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "https://chromewebstore.google.com/detail/myskenchanter/cblocekkcfgogiepbopohmbbejninodm"
     },
@@ -141,7 +151,8 @@
       "categories": [
         "Python",
         "Media",
-        "English"
+        "English",
+        "Made By AI"
       ],
       "link": "https://github.com/keegang6705/YTDownload"
     },
@@ -152,7 +163,8 @@
       "categories": [
         "Python",
         "Contributed Project",
-        "English"
+        "English",
+        "Hand Made"
       ],
       "link": "https://github.com/keegang6705/PanelCleaner-CUDA-build"
     },
@@ -162,7 +174,8 @@
       "imageUrl": "/projects/OneClick Upload.png",
       "categories": [
         "Python",
-        "English"
+        "English",
+        "Hand Made"
       ],
       "link": "https://github.com/keegang6705/oneclick-upload"
     },
@@ -173,7 +186,8 @@
       "categories": [
         "Python",
         "English",
-        "Thai"
+        "Thai",
+        "Made By AI"
       ],
       "link": "https://github.com/keegang6705/PythonGTTS-GUI"
     },
@@ -185,7 +199,8 @@
         "Python",
         "Social Media",
         "English",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "https://github.com/keegang6705/cross-platform-connector"
     },
@@ -196,7 +211,8 @@
       "categories": [
         "Kotlin",
         "Contributed Project",
-        "Multilingual"
+        "Multilingual",
+        "Made By AI"
       ],
       "link": "https://github.com/keegang6705/extensions-source"
     },
@@ -207,7 +223,8 @@
       "categories": [
         "Contributed Project",
         "English",
-        "Thai"
+        "Thai",
+        "Hand Made"
       ],
       "link": "https://github.com/suankularb-wittayalai-school/mysk-api"
     }
