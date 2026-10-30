@@ -6,7 +6,7 @@
       "chapters": [
         {
           "chapter": 2,
-          "status": "translating",
+          "status": "on queue",
           "translator_note": "กำลังทำ",
           "note": "",
           "determined_date": ""
@@ -32,7 +32,7 @@
       "chapters": [
         {
           "chapter": 7,
-          "status": "cleaning",
+          "status": "on queue",
           "translator_note": "",
           "note": "",
           "determined_date": ""
